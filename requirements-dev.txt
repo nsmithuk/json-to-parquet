@@ -1,0 +1,5 @@
+isort
+black
+pyarrow-stubs
+pandas-stubs
+memory-profiler

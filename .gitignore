@@ -1,0 +1,6 @@
+.DS_Store
+/.idea
+*.parquet
+*.gz
+*.ndjson
+*.zip
